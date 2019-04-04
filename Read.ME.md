@@ -27,12 +27,11 @@ Ma manière de recherche
 ====================================
 En premier lieu j'ai mis sur google "Timer C sharp". J'ai rencontré quatre thème à cette recherche.
 Ces thèmes sont :
-..* Site de documentation
-..* Forums
-..* Vidéo youtube
-..* Images
+* Site de documentation
+* Forums
+* Vidéo youtube
+* Images
 
 Voici une liste concernant les sources de ma documentation
 ====================================
-..* https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/run-procedures-at-set-intervals-with-wf-timer-component#example-1
-..*
+* https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/run-procedures-at-set-intervals-with-wf-timer-component#example-1
