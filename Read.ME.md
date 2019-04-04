@@ -54,6 +54,9 @@ De part sa simplicité il est très difficile de faire des tests unitaires le se
 De même pour la pause, après 30 min de pause et a son lancement il fonctionnait parfaitement.
 Il y a aucune donnée que l'utilisateur doit mettre dans une variable c'est pour cela que fonctionne sans problème.
 
+### Gestion des commits
+Encore une fois le code étant très simple j'ai fait que 2 commits pour le programme. Le premier c'est le programme de base et le 2 eme c'est avec les commentaires. Par contre j'ai fait plus de commits
+avec les Markdown.
 ### Voici une liste concernant les sources de ma documentation
 * https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/run-procedures-at-set-intervals-with-wf-timer-component#example-1
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
