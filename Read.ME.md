@@ -1,4 +1,5 @@
 # Les Timers
+
 ## Comment afficher la date et l'heure en C sharp
 
 
@@ -43,6 +44,15 @@ En faisant des recherches sur google je suis tombé sur le site c-sharpcorner et
 The Timer class in C# represents a timer. Windows Forms also has a Timer control that can be dropped to a Form and set its properties. In this code example, we learn how to use a Timer in C# to write to a text file repeatedly at a certain interval of time."
 
 Cette information a été trouvée sur "https://www.c-sharpcorner.com/article/timer-in-C-Sharp/"
+
+### Utilisation de Markdown
+Pour l'écriture de se fichier j'ai du m'informer concernant le format Markdown. J'ai fait plusieurs test pour voir comment fonctionnait ce langage de programmation.
+Le seul moyen que j'ai trouvé pour voir si mes testes étaient concluant c'était de pusher mon document Read.ME.md sur github. Par conséquence j'ai du faire plus de 5 pushs sur github rien qu'avec ce document.
+
+### Tests unitaires
+De part sa simplicité il est très difficile de faire des tests unitaires le seul teste que j'ai pu faire c'est de laisser le programme tourner pendant 30minutes et voir s'il fonctionnait toujours et c'était bien le cas.
+De même pour la pause, après 30 min de pause et a son lancement il fonctionnait parfaitement.
+Il y a aucune donnée que l'utilisateur doit mettre dans une variable c'est pour cela que fonctionne sans problème.
 
 ### Voici une liste concernant les sources de ma documentation
 * https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/run-procedures-at-set-intervals-with-wf-timer-component#example-1
